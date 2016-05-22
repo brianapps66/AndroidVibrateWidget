@@ -3,4 +3,6 @@
     <string name="vibration">Vibration:</string>
     <string name="on">On</string>
     <string name="off">Off</string>
+    <string name="v">V</string>
+    <string name="vibrate">Vibrate</string>
 </resources>
